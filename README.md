@@ -1,4 +1,4 @@
-# Projeto Alura - Banco de dados MySQL 
+# Projeto Alura - Banco de dados MySQL!
 
 > Utilização do MySQL
 
